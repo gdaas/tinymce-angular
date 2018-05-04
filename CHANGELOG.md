@@ -1,3 +1,7 @@
+# 2.0.0-rc.3 (2018-05-04)
+
+* add undo and redo to ngModel onchangecallback
+
 # 2.0.0-rc.2 (2018-05-04)
 
 * Migrate to Angular and rxjs version 6
