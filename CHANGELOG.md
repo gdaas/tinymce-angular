@@ -1,4 +1,4 @@
-# 2.0.0-rc.1 (2018-04-05)
+# 2.0.0-rc.2 (2018-04-05)
 
 * Migrate to Angular and rxjs version 6
 
