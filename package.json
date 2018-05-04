@@ -1,6 +1,6 @@
 {
   "name": "@cloudalize/tinymce-angular",
-  "version": "2.0.0-rc.3",
+  "version": "2.0.0-rc.4",
   "description": "Official TinyMCE Angular Component",
   "author": "Ephox Inc",
   "license": "Apache-2.0",
@@ -8,7 +8,8 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build --prod",
-    "build:package": "ng-packagr -p tinymce-angular-component/ng-package.json && cp README.md lib/",
+    "build:package":
+      "ng-packagr -p tinymce-angular-component/ng-package.json && cp README.md lib/",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e",

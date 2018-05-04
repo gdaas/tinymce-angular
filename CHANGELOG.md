@@ -1,3 +1,7 @@
+# 2.0.0-rc.4 (2018-05-04)
+
+* fix global error
+
 # 2.0.0-rc.3 (2018-05-04)
 
 * add undo and redo to ngModel onchangecallback
