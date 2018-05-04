@@ -1,5 +1,5 @@
 {
-  "name": "@tinymce/tinymce-angular",
+  "name": "@cloudalize/tinymce-angular",
   "version": "2.0.0",
   "description": "Official TinyMCE Angular Component",
   "author": "Ephox Inc",

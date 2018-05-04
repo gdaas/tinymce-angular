@@ -11,7 +11,7 @@ The editor component itselt is located in the `tinymce-angular-component` and pa
 ## Installation
 
 ```sh
-$ npm install @tinymce/tinymce-angular
+$ npm install @cloudalize/tinymce-angular
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ $ npm install @tinymce/tinymce-angular
 Import the `EditorModule` from the npm package like this:
 
 ```tsx
-import { EditorModule } from '@tinymce/tinymce-angular';
+import { EditorModule } from '@cloudalize/tinymce-angular';
 ```
 And add it to you application module:
 
