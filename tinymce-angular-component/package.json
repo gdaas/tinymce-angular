@@ -1,7 +1,7 @@
 {
   "name": "@cloudalize/tinymce-angular",
   "description": "Official TinyMCE Angular Component",
-  "version": "2.0.0",
+  "version": "2.0.0.beta",
   "repository": "https://github.com/tinymce/tinymce-angular.git",
   "author": "Ephox Inc",
   "license": "Apache-2.0",
