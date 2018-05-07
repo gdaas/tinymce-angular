@@ -1,3 +1,7 @@
+# 2.0.0-rc.5 (2018-05-05)
+
+* remove call to global shim
+
 # 2.0.0-rc.4 (2018-05-04)
 
 * fix global error
