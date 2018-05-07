@@ -1,6 +1,6 @@
 {
   "name": "@cloudalize/tinymce-angular",
-  "version": "2.0.0-rc.5",
+  "version": "2.0.0-rc.6",
   "description": "Official TinyMCE Angular Component",
   "author": "Ephox Inc",
   "license": "Apache-2.0",
